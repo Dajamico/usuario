@@ -1,6 +1,4 @@
-{
- "login" :[
-  
+{  
     "usuario": [
       { "id": 1, "nombreU": "Roge12" }
     ],
@@ -13,5 +11,4 @@
     "profile": {
       "name": "typicode"
     }
- ]
 }
