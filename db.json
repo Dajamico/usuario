@@ -3,8 +3,8 @@
   "usuario": [
     { "id": 1, "nombreU": "Roge12" }
   ],
-  "pasword": [
-    { "id": 1, "pasword": "ro12s"  }
+  "password": [
+    { "id": 1, "password": "ro12s"  }
   ],
   "Email": [
     {"id": 1, "Email": "roge12@gmail.com"}
