@@ -1,19 +1,14 @@
 
 {
   "usuario": [
-    { "id": 1, "nombreU": "Roge12" },
-    { "id": 2, "nombreU": "sofiQL" }
-    
+    { "id": 1, "nombreU": "Roge12" }
   ],
   "pasword": [
-    { "id": 1, "pasword": "ro12s"  },
-    { "id": 2, "body": "abcd25"  }
+    { "id": 1, "pasword": "ro12s"  }
   ],
   "Email": [
     {"id": 1, "Email": "roge12@gmail.com"}
   ],
-  
- 
   "profile": {
     "name": "typicode"
   }
