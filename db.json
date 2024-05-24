@@ -1,20 +1,15 @@
+
 {
-  "usuario": [
-    { "id": 1, "nombreU": "Roge12" },
-    { "id": 2, "nombreU": "sofiQL" },
-    { "id": 3, "nombreU": "tata78" }
-    
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
-  "pasword": [
-    { "id": 1, "body": "ro12s" },
-    { "id": 2, "body": "abcd25"},
-    { "id": 3, "body": "qwerty"}
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "Email": [
-    {"id": 1, "Email": "roge12@gmail.com"},
-    {"id": 2, "Email": "sofoql002@gmail.com"}
-  ],
-   "profile": {
-    "name": "codigo Prueba"
+  "profile": {
+    "name": "typicode"
   }
 }
