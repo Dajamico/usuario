@@ -1,28 +1,17 @@
 {
-    "estatus": 1,
-    "mensaje": "Servicio ejecutado correctamente",
+    
     "informacion": {
         "opciones": [
-            {
-                "idClientHsp": 1,
-                "idClient": "abcd-1234",
-                "roleId": null,
-                "nameRole": null,
-                "nameClient": "hts-system",
-                "hospitalId": 87,
-                "fechaRegistro": 1711565784000,
-                "usuarioRegistro": "ADMIN"
-            },
-            {
-                "idClientHsp": 4,
-                "idClient": "8evMBYIE-ksG9ZYlu",
-                "roleId": null,
-                "nameRole": null,
-                "nameClient": "EDDER",
-                "hospitalId": 92,
-                "fechaRegistro": 1713998161000,
-                "usuarioRegistro": "ADMIN"
-            }
-        ]
+            "usuario": [
+              { "id": 1, "nombreU": "Roge12" }
+            ],
+            "password": [
+              { "id": 1, "password": "ro12s"  }
+            ],
+            "Email": [
+              {"id": 1, "Email": "roge12@gmail.com"}
+            ],
+           
+        ],
     }
 }
