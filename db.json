@@ -1,0 +1,17 @@
+{
+  "usuario": [
+    { "id": 1, "nombreU": "Roge12" },
+    { "id": 2, "nombreU": "sofiQL" },
+    { "id": 3, "nombreU": "tata78" }
+    
+  ],
+  "pasword": [
+    { "id": 1, "body": "ro12s"  },
+    { "id": 2, "body": "abcd25"  },
+    { "id": 3, "body": "qwerty"  }
+  ],
+  "Email": [
+    {"id": 1, "Email": "roge12@gmail.com"},
+    {"id": 2, "Email": "sofoql002@gmail.com"}
+  ],
+}
