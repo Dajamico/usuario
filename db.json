@@ -1,7 +1,7 @@
 {
     
    
-        "opciones": [
+        "opciones": {
             "usuario": [
               { "id": 1, "nombreU": "Roge12" }
             ],
@@ -12,6 +12,6 @@
               {"id": 1, "Email": "roge12@gmail.com"}
             ],
            
-        ],
+        }
     
 }
