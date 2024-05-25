@@ -1,5 +1,5 @@
 {
-"login": {
+
     "usuario": [
       { "id": 1, "nombreU": "Roge12" }
     ],
@@ -8,9 +8,8 @@
     ],
     "Email": [
       {"id": 1, "Email": "roge12@gmail.com"}
-    ],       
-   },
-"profile": {
+    ],      
+    "profile": {
       "name": "code"
     }
 }
