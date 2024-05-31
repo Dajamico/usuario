@@ -2,18 +2,18 @@
   "usuarios": [
     {
       "id": 1,
-      "nombreU": "Usuario1",
-      "password": "clave1",
-      "Email": "usuario1@ejemplo.com",
+      "nombreU": "RojeU12",
+      "password": "contrasena23",
+      "Email": "rojeur123@gmail.com",
       "profile": {
         "name": "perfil1"
       }
     },
     {
       "id": 2,
-      "nombreU": "Usuario2",
-      "password": "clave2",
-      "Email": "usuario2@ejemplo.com",
+      "nombreU": "CamZ72",
+      "password": "tulipan72",
+      "Email": "camher2@gmail.com",
       "profile": {
         "name": "perfil2"
       }
