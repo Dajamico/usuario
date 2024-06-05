@@ -5,19 +5,15 @@
         "curp": "ROJEgtdajb3567",
         "nombreU": "RojeU12",
         "password": "contrasena23",
-        "Email": "rojeur123@gmail.com",
-        "profile": {
-          "name": "perfil1"
-        }
+        "Email": "rojeur123@gmail.com"
+       
       },
       {
         "curp": "CAHehdbryf345",
         "nombreU": "CamZ72",
         "password": "tulipan72",
-        "Email": "camher2@gmail.com",
-        "profile": {
-          "name": "perfil2"
-        }
+        "Email": "camher2@gmail.com"
+       
       }
     ]
   }
